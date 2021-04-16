@@ -1,0 +1,2 @@
+# AMOLED_0.95_FT2201
+AMOLED Driver
